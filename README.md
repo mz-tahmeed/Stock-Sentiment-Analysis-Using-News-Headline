@@ -9,6 +9,12 @@
 
 * Optimized Random Forest to build the best model.
 
+**Technology and tools wise this project covers:**
+1. Python
+2. Numpy and Pandas for data cleaning
+3. Natural Language Processing
+4. Random Forest for model building
+5. Jupyter notebook and Spyder as IDE
 
 ## Sources
 
